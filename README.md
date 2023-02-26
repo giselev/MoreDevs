@@ -1,2 +1,5 @@
 # MoreDevs
-aulas em python, programa more devs to blu
+Curso +DevsToBlu | Full Stack
+- Python
+- JavaScript
+- CSS
